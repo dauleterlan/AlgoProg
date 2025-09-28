@@ -14,6 +14,7 @@ int main() {
     double B2 = pow(x, 4)/ 2 +  pow(sin(z),2); 
     double resB = A2 / B2;
     printf("%.2f %.2f", resA, resB);
+    //test
     return 0;
 }
 
